@@ -10,6 +10,9 @@ int NWD(int a, int b)
        else
            b-=a;
     return a;
+
+    std::cout << "Hello World!";
+
 }
 
 
@@ -28,3 +31,4 @@ int main()
     }
     return 0;
 }
+
