@@ -11,8 +11,6 @@ int NWD(int a, int b)
            b-=a;
     return a;
 
-    std::cout << "Hello World!";
-
 }
 
 
