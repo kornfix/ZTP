@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605198576 source:c:\users\konrad rulak\desktop\pp\pp0504b - stringmerge\main.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+
